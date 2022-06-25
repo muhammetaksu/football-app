@@ -2,7 +2,7 @@
     "name": "football-app",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://muhammetaksu.github.io/football-app",
+    "homepage": "https://muhammetaksu.github.io/football-app/",
     "dependencies": {
         "@testing-library/jest-dom": "^5.16.4",
         "@testing-library/react": "^13.3.0",

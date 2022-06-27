@@ -4,4 +4,4 @@
 
 > _Hazırlamış olduğum çalışmaya aşağıdaki linkten ulaşabilirsiniz._
 
--   Website: [https://muhammetaksu.github.io/football-app/](https://muhammetaksu.github.io/football-app/)
+-   Website: [https://teams-leagues.netlify.app/](https://teams-leagues.netlify.app/)
